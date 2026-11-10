@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DOMAIN = 'https://binary-horizons.pages.dev';
+const DOMAIN = 'https://binary-horizons.pageaura.xyz';
 const KEY = '22f83cabcaef4a4891b36c3cb039dcf6';
 
 const ROOT = __dirname;
