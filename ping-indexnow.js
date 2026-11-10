@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-const HOST = 'binary-horizons.pages.dev';
+const HOST = 'binary-horizons.pageaura.xyz';
 const KEY = '22f83cabcaef4a4891b36c3cb039dcf6'; // Apni IndexNow key yahan dalein
 const KEY_LOCATION = `https://binary-horizons.pages.dev/22f83cabcaef4a4891b36c3cb039dcf6.txt`;
 
